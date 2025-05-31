@@ -3,29 +3,47 @@ import Plot from 'react-plotly.js';
 
 type Props = {
   data: {
+    Agent: string;
     "Faixa de Agressividade": string;
     Rating_stats: number;
     Count: number;
   }[];
 };
 
+
 const RatingByAggression = ({ data }: Props) => {
+  const agentsUnicos = Array.from(new Set(data.map(d => d.Agent)));
+  const faixas = Array.from(new Set(data.map(d => d["Faixa de Agressividade"])));
+
+  const traces = agentsUnicos.map(agent => {
+    const dadosAgente = faixas.map(faixa => {
+      const item = data.find(
+        d => d.Agent === agent && d["Faixa de Agressividade"] === faixa
+      );
+      return {
+        rating: item?.Rating_stats ?? 0,
+        count: item?.Count ?? 0
+      };
+    });
+
+    return {
+      name: agent,
+      x: faixas,
+      y: dadosAgente.map(d => d.rating),
+      text: dadosAgente.map(d => d.count),
+      type: 'bar',
+      hovertemplate:
+        'Agente: ' + agent + '<br>Faixa: %{x}<br>Rating Médio: %{y:.2f}<br>Qtd Jogadores: %{text}<extra></extra>',
+    };
+  });
+
   return (
     <Plot
-      data={[
-        {
-          x: data.map(d => d["Faixa de Agressividade"]),
-          y: data.map(d => d.Rating_stats),
-          text: data.map(d => d.Count),
-          type: 'bar',
-          marker: { color: '#636EFA' },
-          hovertemplate:
-            'Faixa: %{x}<br>Rating Médio: %{y:.2f}<br>Qtd Jogadores: %{text}<extra></extra>',
-        }
-      ]}
+      data={traces}
       layout={{
+        barmode: 'group',
         title: {
-          text: '📊 Média de Rating por Faixa de Agressividade',
+          text: '📊 Média de Rating por Faixa de Agressividade (por Agente)',
           font: { size: 20 },
           x: 0.5,
           xanchor: 'center',
