@@ -1,0 +1,17 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.associations": {
+    "*.js": "javascriptreact",
+    "*.jsx": "javascriptreact"
+  },
+  "javascript.validate.enable": false,
+  "typescript.validate.enable": false,
+  "eslint.alwaysShowRuleFailuresAsWarnings": true,
+  "eslint.format.enable": true,
+  "eslint.packageManager": "yarn",
+  "editor.codeActionsOnSave": {
+  "source.fixAll.eslint": true
+  }
+
+}
