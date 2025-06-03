@@ -1,0 +1,5672 @@
+[
+  {
+    "Ano":2021,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9140810482,
+    "Count":125703
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9317099515,
+    "Count":141466
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9633779409,
+    "Count":13899
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9476818789,
+    "Count":15711
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9469917012,
+    "Count":4338
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9508015201,
+    "Count":172098
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9659597482,
+    "Count":187768
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9886209918,
+    "Count":17121
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9792746273,
+    "Count":19521
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9800713012,
+    "Count":5049
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0280042427,
+    "Count":124449
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0330054419,
+    "Count":133225
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0438322613,
+    "Count":12126
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0374225053,
+    "Count":14130
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0201963993,
+    "Count":3666
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.0934182269,
+    "Count":65376
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1035667628,
+    "Count":71799
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.073802382,
+    "Count":6801
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.0718060328,
+    "Count":7857
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1161007194,
+    "Count":2085
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1946278577,
+    "Count":52359
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1933092763,
+    "Count":59442
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1410298255,
+    "Count":5331
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1562474438,
+    "Count":5868
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1680232558,
+    "Count":1548
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.4294565783,
+    "Count":11538
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.4078578177,
+    "Count":12702
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.2962207358,
+    "Count":897
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.3433802817,
+    "Count":1065
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"Todos",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.3045544554,
+    "Count":303
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9283318439,
+    "Count":10071
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9478429752,
+    "Count":14520
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9858083832,
+    "Count":1002
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":1.0041860465,
+    "Count":258
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":1.0575,
+    "Count":372
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9986676252,
+    "Count":12519
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.0166148483,
+    "Count":17497
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9922006472,
+    "Count":927
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9755384615,
+    "Count":195
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.0059876543,
+    "Count":486
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0708056872,
+    "Count":6330
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0810503122,
+    "Count":8169
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0519553073,
+    "Count":537
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0106756757,
+    "Count":222
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.1188461538,
+    "Count":234
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1429552239,
+    "Count":2010
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1848653345,
+    "Count":2302
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.2139506173,
+    "Count":243
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1759459459,
+    "Count":111
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1790322581,
+    "Count":93
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.2689788732,
+    "Count":852
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.2840584416,
+    "Count":924
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.145,
+    "Count":54
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.23,
+    "Count":12
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.2,
+    "Count":21
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.4995238095,
+    "Count":63
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.5317777778,
+    "Count":135
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"astra",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.919866735,
+    "Count":5853
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9166910039,
+    "Count":11505
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9390946502,
+    "Count":1458
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9656996587,
+    "Count":879
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9589940828,
+    "Count":507
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9574809934,
+    "Count":5919
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9674431518,
+    "Count":11346
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.056217765,
+    "Count":1047
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.0019548872,
+    "Count":798
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.0016483516,
+    "Count":273
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0315483871,
+    "Count":2790
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0409806371,
+    "Count":4803
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0129299363,
+    "Count":471
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.1145299145,
+    "Count":351
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.9460869565,
+    "Count":138
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1201809955,
+    "Count":663
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1493533487,
+    "Count":1299
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1997142857,
+    "Count":105
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.2036363636,
+    "Count":132
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.0411111111,
+    "Count":54
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.2501680672,
+    "Count":357
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.3244036697,
+    "Count":654
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.6341176471,
+    "Count":51
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.36,
+    "Count":9
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.25,
+    "Count":18
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.5092,
+    "Count":75
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"breach",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9246268657,
+    "Count":3618
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9932224276,
+    "Count":4869
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9980904523,
+    "Count":597
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":1.079144385,
+    "Count":561
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":1.1367123288,
+    "Count":219
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.955056101,
+    "Count":4278
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.0145510079,
+    "Count":4911
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9837931034,
+    "Count":696
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.0899305556,
+    "Count":432
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.0302325581,
+    "Count":258
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0458020833,
+    "Count":2880
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.1273146293,
+    "Count":2994
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0939597315,
+    "Count":447
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0867647059,
+    "Count":408
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0185333333,
+    "Count":225
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.11599022,
+    "Count":1227
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1921019108,
+    "Count":942
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.2058823529,
+    "Count":102
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1064705882,
+    "Count":102
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.4245454545,
+    "Count":99
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.2445525292,
+    "Count":771
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.3005617978,
+    "Count":534
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.0731578947,
+    "Count":57
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.24,
+    "Count":12
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.72,
+    "Count":9
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.6206896552,
+    "Count":87
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.3842857143,
+    "Count":21
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.36,
+    "Count":12
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"brimstone",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.8830793854,
+    "Count":4686
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":1.04,
+    "Count":9
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9,
+    "Count":27
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.85,
+    "Count":9
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9136340005,
+    "Count":11541
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.7138095238,
+    "Count":63
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.1287096774,
+    "Count":93
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.66,
+    "Count":9
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0263840594,
+    "Count":15357
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.1132352941,
+    "Count":102
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0572222222,
+    "Count":108
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.8106976744,
+    "Count":129
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.121699943,
+    "Count":10518
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.2513793103,
+    "Count":87
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.0741509434,
+    "Count":159
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.184,
+    "Count":45
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.2079685934,
+    "Count":8979
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.0370212766,
+    "Count":141
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.0185,
+    "Count":60
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1428571429,
+    "Count":42
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.3964695009,
+    "Count":1623
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.36,
+    "Count":24
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"chamber",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.3272727273,
+    "Count":33
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":1.1121428571,
+    "Count":42
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":1.43,
+    "Count":12
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9485714286,
+    "Count":42
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.3927272727,
+    "Count":33
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0253061224,
+    "Count":147
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.9227272727,
+    "Count":33
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0.9935,
+    "Count":60
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1572727273,
+    "Count":33
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0.9033333333,
+    "Count":27
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"clove",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.8890012484,
+    "Count":9612
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.8760612329,
+    "Count":4834
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9220754717,
+    "Count":318
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9331485588,
+    "Count":1353
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.8719354839,
+    "Count":279
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9294041686,
+    "Count":13242
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.955,
+    "Count":7128
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9778817734,
+    "Count":609
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9529122807,
+    "Count":1710
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.8975483871,
+    "Count":465
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0032891911,
+    "Count":8382
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0266998578,
+    "Count":4921
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0077472527,
+    "Count":546
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0729722922,
+    "Count":1191
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0165079365,
+    "Count":189
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.0885299625,
+    "Count":3204
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.107046875,
+    "Count":1920
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1557894737,
+    "Count":114
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.0820437956,
+    "Count":411
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.0844444444,
+    "Count":81
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1829859719,
+    "Count":1497
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1719647355,
+    "Count":1191
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1245,
+    "Count":60
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.247625,
+    "Count":240
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.0818181818,
+    "Count":33
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.3654166667,
+    "Count":216
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.4538461538,
+    "Count":39
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.26,
+    "Count":12
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"cypher",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.5696551724,
+    "Count":87
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.8911538462,
+    "Count":78
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.0894594595,
+    "Count":111
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9283333333,
+    "Count":72
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0183333333,
+    "Count":72
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.034,
+    "Count":45
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0.8585714286,
+    "Count":21
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.16,
+    "Count":9
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0.92,
+    "Count":12
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.19,
+    "Count":9
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"deadlock",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":1.0040567067,
+    "Count":2751
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":1.0117948718,
+    "Count":585
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9774864865,
+    "Count":1110
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9633333333,
+    "Count":306
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9909103841,
+    "Count":2109
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.0326717557,
+    "Count":393
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9868786127,
+    "Count":1038
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9594845361,
+    "Count":291
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0416284404,
+    "Count":1308
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0586597938,
+    "Count":291
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.109281768,
+    "Count":543
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0310714286,
+    "Count":168
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1028205128,
+    "Count":234
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1513333333,
+    "Count":90
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.2874683544,
+    "Count":237
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1627586207,
+    "Count":87
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.2054054054,
+    "Count":111
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.3,
+    "Count":21
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.31,
+    "Count":84
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.44,
+    "Count":27
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"fade",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9428813559,
+    "Count":177
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.8388206388,
+    "Count":1221
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.8824324324,
+    "Count":111
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.8784482759,
+    "Count":174
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.904398977,
+    "Count":1173
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.0243478261,
+    "Count":69
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.9538235294,
+    "Count":102
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0233442623,
+    "Count":915
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0195652174,
+    "Count":69
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.01,
+    "Count":9
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.0561702128,
+    "Count":282
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0.83,
+    "Count":24
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.0114285714,
+    "Count":21
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.3702631579,
+    "Count":114
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"gekko",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9611607143,
+    "Count":672
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9497580645,
+    "Count":372
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.975,
+    "Count":24
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.97,
+    "Count":648
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9618918919,
+    "Count":333
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.87,
+    "Count":24
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.986637931,
+    "Count":348
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.9218571429,
+    "Count":210
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.0102380952,
+    "Count":126
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0.94,
+    "Count":45
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.075,
+    "Count":24
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.62,
+    "Count":18
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.59,
+    "Count":12
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"harbor",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.615,
+    "Count":18
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.06125,
+    "Count":48
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.1866666667,
+    "Count":99
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.026,
+    "Count":30
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.0024,
+    "Count":75
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0.965,
+    "Count":24
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.0933333333,
+    "Count":36
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.2294444444,
+    "Count":54
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.84,
+    "Count":9
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"iso",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.805824295,
+    "Count":2766
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.7749339207,
+    "Count":2043
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.7009090909,
+    "Count":66
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.817,
+    "Count":150
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.8533333333,
+    "Count":36
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.7827944573,
+    "Count":9093
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.793125,
+    "Count":8448
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.7579710145,
+    "Count":414
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.8790070922,
+    "Count":423
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.644375,
+    "Count":48
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.9327020439,
+    "Count":15999
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.9157090275,
+    "Count":15486
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.9847560976,
+    "Count":1230
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.954502924,
+    "Count":1026
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.9277777778,
+    "Count":189
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.0370922355,
+    "Count":17271
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.0235344402,
+    "Count":18249
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.0077330896,
+    "Count":1641
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.0273490814,
+    "Count":1143
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.0214285714,
+    "Count":315
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1536132241,
+    "Count":20508
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1491158255,
+    "Count":22767
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1165298013,
+    "Count":2265
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.133125,
+    "Count":1632
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.0981343284,
+    "Count":402
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.3824359645,
+    "Count":5739
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.3864437117,
+    "Count":6369
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.2622012579,
+    "Count":477
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.3435714286,
+    "Count":462
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"jett",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.3933333333,
+    "Count":45
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9593914807,
+    "Count":1479
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9211223125,
+    "Count":9721
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9676079734,
+    "Count":903
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9773755656,
+    "Count":1326
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.95175,
+    "Count":240
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9741954887,
+    "Count":1995
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9721710101,
+    "Count":13929
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.0193573265,
+    "Count":1167
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.0037596899,
+    "Count":1548
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.1192647059,
+    "Count":204
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0623917526,
+    "Count":1455
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0792433612,
+    "Count":8247
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.11804,
+    "Count":750
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0671691176,
+    "Count":816
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.8840909091,
+    "Count":132
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1581151832,
+    "Count":573
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1616433022,
+    "Count":3852
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.0469148936,
+    "Count":282
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1030769231,
+    "Count":312
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.14375,
+    "Count":96
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.3085869565,
+    "Count":276
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.281840708,
+    "Count":1695
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.2285714286,
+    "Count":105
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.3225862069,
+    "Count":174
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.5285,
+    "Count":60
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.6006060606,
+    "Count":99
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.587,
+    "Count":30
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"kayo",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9110107527,
+    "Count":12555
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9181370656,
+    "Count":9324
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9390280374,
+    "Count":1605
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9448169014,
+    "Count":1065
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":1.0102173913,
+    "Count":138
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9669434027,
+    "Count":17598
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9814956012,
+    "Count":13299
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.0121624851,
+    "Count":2511
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9687969925,
+    "Count":1596
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.8986538462,
+    "Count":156
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.056941144,
+    "Count":10857
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0766878555,
+    "Count":8967
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0610734463,
+    "Count":1593
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0244868735,
+    "Count":1257
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0631818182,
+    "Count":132
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1324274194,
+    "Count":3720
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.154695122,
+    "Count":3444
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.0905150215,
+    "Count":699
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1469354839,
+    "Count":372
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.13,
+    "Count":66
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.2000823723,
+    "Count":1821
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.2395017794,
+    "Count":1686
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.251827957,
+    "Count":279
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1575925926,
+    "Count":162
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.3038461538,
+    "Count":39
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.4920512821,
+    "Count":234
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.4302439024,
+    "Count":123
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.32,
+    "Count":12
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"killjoy",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.8116504854,
+    "Count":618
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.8618518519,
+    "Count":81
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.809047619,
+    "Count":126
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.7891921397,
+    "Count":1374
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.7703125,
+    "Count":96
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.8302083333,
+    "Count":144
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.025,
+    "Count":72
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.9098567335,
+    "Count":2094
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.8897058824,
+    "Count":204
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.9414285714,
+    "Count":378
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0027272727,
+    "Count":99
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0.9885055351,
+    "Count":1626
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0.9297435897,
+    "Count":234
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0.9798969072,
+    "Count":291
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0.8356,
+    "Count":75
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.0808711434,
+    "Count":1653
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.0821428571,
+    "Count":294
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1322282609,
+    "Count":552
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0.96,
+    "Count":54
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.2504205607,
+    "Count":642
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.1676470588,
+    "Count":102
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.2683673469,
+    "Count":147
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"neon",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.2526315789,
+    "Count":57
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.8861767677,
+    "Count":11880
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9497986837,
+    "Count":7749
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9354947368,
+    "Count":1425
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.958237037,
+    "Count":2025
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9072413793,
+    "Count":348
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9475392472,
+    "Count":15861
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9697537943,
+    "Count":8895
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9648068006,
+    "Count":1941
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9850931677,
+    "Count":2898
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9812560386,
+    "Count":621
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0317417312,
+    "Count":8526
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0503386454,
+    "Count":4518
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0442105263,
+    "Count":969
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0575454545,
+    "Count":1320
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.034159292,
+    "Count":339
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1057409051,
+    "Count":3381
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1249714286,
+    "Count":1575
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1905333333,
+    "Count":450
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.05875,
+    "Count":336
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.24,
+    "Count":57
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1809677419,
+    "Count":1302
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1642105263,
+    "Count":684
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.0116129032,
+    "Count":186
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.2237096774,
+    "Count":186
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.3947826087,
+    "Count":69
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.5292592593,
+    "Count":162
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.44125,
+    "Count":48
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.34,
+    "Count":9
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":2.45,
+    "Count":12
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"omen",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.843968254,
+    "Count":1890
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9944444444,
+    "Count":108
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":1.0569230769,
+    "Count":39
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.7738461538,
+    "Count":39
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.76,
+    "Count":12
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.839455836,
+    "Count":3804
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.8723188406,
+    "Count":207
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.1477272727,
+    "Count":66
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.143,
+    "Count":30
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.71,
+    "Count":12
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0110754098,
+    "Count":4575
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.9605063291,
+    "Count":237
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0272,
+    "Count":75
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.074,
+    "Count":60
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.102,
+    "Count":30
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.0843000838,
+    "Count":3579
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.191,
+    "Count":90
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1113333333,
+    "Count":45
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.13,
+    "Count":90
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.21,
+    "Count":12
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.2487576127,
+    "Count":2463
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.3625373134,
+    "Count":201
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1528571429,
+    "Count":21
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.0346666667,
+    "Count":45
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.4860180995,
+    "Count":663
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.48,
+    "Count":18
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"phoenix",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.8758183079,
+    "Count":4326
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.8894081272,
+    "Count":3396
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9230252101,
+    "Count":357
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9527848101,
+    "Count":237
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.8947058824,
+    "Count":153
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9042642898,
+    "Count":10602
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9071598878,
+    "Count":8556
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.8948466258,
+    "Count":978
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.8204471545,
+    "Count":738
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.962027027,
+    "Count":222
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0155833157,
+    "Count":14169
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.9917195282,
+    "Count":11445
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.9981675393,
+    "Count":1146
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.9544470046,
+    "Count":1302
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.97,
+    "Count":309
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.0994153658,
+    "Count":9801
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1005521321,
+    "Count":8114
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.0242032333,
+    "Count":1299
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.0395415473,
+    "Count":2094
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.0881355932,
+    "Count":354
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.200703876,
+    "Count":9675
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1906871868,
+    "Count":8382
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1610436893,
+    "Count":1236
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1411445783,
+    "Count":1494
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1872033898,
+    "Count":354
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.4948885794,
+    "Count":2154
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.4500583942,
+    "Count":2055
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.3948684211,
+    "Count":228
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.3487951807,
+    "Count":249
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"raze",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.2526666667,
+    "Count":135
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.8930832196,
+    "Count":2199
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.8804457652,
+    "Count":2019
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.8828571429,
+    "Count":21
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.71,
+    "Count":18
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.8947881356,
+    "Count":5664
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.8584221599,
+    "Count":4278
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.22,
+    "Count":12
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.728,
+    "Count":60
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0072170761,
+    "Count":7449
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.9958076923,
+    "Count":4680
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.1715384615,
+    "Count":39
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.9175862069,
+    "Count":87
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.66,
+    "Count":18
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1009753363,
+    "Count":5352
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1083916084,
+    "Count":3432
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.2191304348,
+    "Count":69
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.3081818182,
+    "Count":33
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.226860274,
+    "Count":5475
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.2199468085,
+    "Count":3384
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.2285714286,
+    "Count":42
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.2476,
+    "Count":75
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.4512808989,
+    "Count":1335
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.408907563,
+    "Count":714
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.59,
+    "Count":9
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.2542857143,
+    "Count":21
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"reyna",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.76,
+    "Count":12
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.895107943,
+    "Count":14730
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9231253287,
+    "Count":11410
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9004411765,
+    "Count":204
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9869892473,
+    "Count":279
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9581818182,
+    "Count":33
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9382145908,
+    "Count":17559
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9613870686,
+    "Count":13734
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9123762376,
+    "Count":303
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9281176471,
+    "Count":255
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0378672179,
+    "Count":12336
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0392521739,
+    "Count":8625
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0131932773,
+    "Count":357
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.1326760563,
+    "Count":213
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.3466666667,
+    "Count":45
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1065241986,
+    "Count":4773
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.127694859,
+    "Count":3618
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1206,
+    "Count":150
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0.9613157895,
+    "Count":114
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.49,
+    "Count":12
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.2375505351,
+    "Count":2523
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.2979090909,
+    "Count":1650
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1645833333,
+    "Count":72
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.292,
+    "Count":45
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.5625,
+    "Count":276
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.5957692308,
+    "Count":156
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"sage",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.8881815276,
+    "Count":9387
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.8911814771,
+    "Count":10927
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9581164384,
+    "Count":1752
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.8821348315,
+    "Count":801
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.8815,
+    "Count":120
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9245831393,
+    "Count":12882
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9316380952,
+    "Count":14175
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.0203904924,
+    "Count":1767
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9507667732,
+    "Count":939
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.076122449,
+    "Count":147
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0073820059,
+    "Count":8136
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0286833964,
+    "Count":8727
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0585521886,
+    "Count":891
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.9938297872,
+    "Count":564
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0061290323,
+    "Count":93
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.0815550978,
+    "Count":2913
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1208209607,
+    "Count":3435
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.0621359223,
+    "Count":309
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0.9891044776,
+    "Count":201
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0.9909090909,
+    "Count":33
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.235008547,
+    "Count":1755
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.2491481481,
+    "Count":1620
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.3206060606,
+    "Count":99
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0.9516666667,
+    "Count":54
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0.82,
+    "Count":24
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.359047619,
+    "Count":252
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.4855555556,
+    "Count":189
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"skye",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9697830566,
+    "Count":24753
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9748634011,
+    "Count":24927
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":1.0247757256,
+    "Count":1137
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9517693837,
+    "Count":1509
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9338961039,
+    "Count":462
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.0404256796,
+    "Count":25935
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.046707804,
+    "Count":24795
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.0371171171,
+    "Count":1332
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.0402556391,
+    "Count":1995
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.0415238095,
+    "Count":315
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.1312262891,
+    "Count":11229
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.1308499566,
+    "Count":10377
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.1298666667,
+    "Count":675
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.1135761589,
+    "Count":906
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.108372093,
+    "Count":129
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.2439876033,
+    "Count":2904
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.2319622246,
+    "Count":2859
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1670909091,
+    "Count":165
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.2656842105,
+    "Count":285
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.2703125,
+    "Count":96
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.3043636364,
+    "Count":990
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.319204893,
+    "Count":981
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.2263636364,
+    "Count":99
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1775,
+    "Count":36
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.4866666667,
+    "Count":27
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.4634782609,
+    "Count":69
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.7184210526,
+    "Count":57
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.33,
+    "Count":12
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"sova",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.8632673267,
+    "Count":303
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.0117985612,
+    "Count":417
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.2433928571,
+    "Count":168
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1952,
+    "Count":75
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.35,
+    "Count":12
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"tejo",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9287822557,
+    "Count":10347
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9407341008,
+    "Count":15897
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9973076923,
+    "Count":1482
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9844635193,
+    "Count":2097
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.957244898,
+    "Count":294
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9803965482,
+    "Count":14601
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9858105055,
+    "Count":21246
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.0007656968,
+    "Count":1959
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":1.0262639821,
+    "Count":2682
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9678761062,
+    "Count":339
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0667990414,
+    "Count":8763
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0577435639,
+    "Count":11886
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0794761905,
+    "Count":1260
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0790926641,
+    "Count":1554
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.998028169,
+    "Count":213
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1257283142,
+    "Count":3666
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1500513196,
+    "Count":4092
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1618902439,
+    "Count":492
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1051196172,
+    "Count":627
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.2566666667,
+    "Count":90
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.2464628099,
+    "Count":1815
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.2736235955,
+    "Count":2136
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1259615385,
+    "Count":156
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1914159292,
+    "Count":339
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.4259090909,
+    "Count":66
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.4503508772,
+    "Count":171
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.66375,
+    "Count":240
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.36,
+    "Count":27
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0.79,
+    "Count":12
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"viper",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.9695652174,
+    "Count":207
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9480412371,
+    "Count":291
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":1.0767708333,
+    "Count":288
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.1422727273,
+    "Count":66
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1306666667,
+    "Count":45
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"vyse",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":0,
+    "Count":0
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.7617721519,
+    "Count":237
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.8251851852,
+    "Count":162
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.787,
+    "Count":30
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.8395238095,
+    "Count":126
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0\u20130.05",
+    "Rating_stats":0.7047368421,
+    "Count":57
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.7887362637,
+    "Count":546
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.8715,
+    "Count":300
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.53,
+    "Count":18
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.9522222222,
+    "Count":270
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0.05\u20130.10",
+    "Rating_stats":0.8222033898,
+    "Count":177
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.9566492147,
+    "Count":573
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.953671875,
+    "Count":384
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.9280645161,
+    "Count":93
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.9701574803,
+    "Count":381
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0.10\u20130.15",
+    "Rating_stats":0.9677027027,
+    "Count":222
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.002920354,
+    "Count":339
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.0177272727,
+    "Count":198
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":0.9863333333,
+    "Count":90
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.0359259259,
+    "Count":324
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0.15\u20130.20",
+    "Rating_stats":1.0563513514,
+    "Count":222
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.0613978495,
+    "Count":279
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1422857143,
+    "Count":210
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.0925,
+    "Count":48
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.0768243243,
+    "Count":444
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0.20\u20130.30",
+    "Rating_stats":1.1183333333,
+    "Count":234
+  },
+  {
+    "Ano":2021,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.3430769231,
+    "Count":39
+  },
+  {
+    "Ano":2022,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.3572727273,
+    "Count":99
+  },
+  {
+    "Ano":2023,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.02,
+    "Count":9
+  },
+  {
+    "Ano":2024,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.2608,
+    "Count":75
+  },
+  {
+    "Ano":2025,
+    "Agents_stats":"yoru",
+    "Faixa de Agressividade":"0.30\u20130.50",
+    "Rating_stats":1.2928571429,
+    "Count":21
+  }
+]
