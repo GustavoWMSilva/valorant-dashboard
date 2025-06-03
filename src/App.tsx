@@ -42,6 +42,8 @@ const getAgenteFaceImagePath = (agente: string) => {
 function App() {
   const anosUnicos = Array.from(new Set(dados.map((d) => d.Ano))).sort();
   const agentesUnicos = Array.from(new Set(dados.map((d) => d.Agents_stats))).sort();
+  const [selectAgente, setSelectAgente] = useState<string>(''); // Estado para o agente selecionado
+
 
   const [anoSelecionado, setAnoSelecionado] = useState<number>(2024);
   const [agenteSelecionado, setAgenteSelecionado] = useState<string[]>(['jett']);
@@ -93,6 +95,16 @@ function App() {
     }),
   };
 
+  const handleAgenteClick = (agente: string) => {
+  if (selectAgente === agente) {
+    setSelectAgente(''); // Desseleciona se já estiver selecionado
+  }else {
+    setSelectAgente(agente); // Seleciona o agente
+  }
+};
+ // Valor padrão (mantido apenas como constante, se necessário)
+
+
   return (
     <div className="w-screen min-h-screen bg-gradient-to-br from-gray-100 to-indigo-50 flex flex-col">
       <header className="w-full bg-indigo-600 py-6 shadow-md">
@@ -133,11 +145,11 @@ function App() {
                   options={agenteOptions}
                   value={agenteOptions.filter((o) => agenteSelecionado.includes(o.value))}
                   onChange={(selected) => {
-  if (selected.length === 0) return; // impede remover todos
-  if (selected.length <= 5) {
-    setAgenteSelecionado(selected.map((s) => s.value));
-  }
-}}
+                    if (selected.length === 0) return; // impede remover todos
+                    if (selected.length <= 5) {
+                      setAgenteSelecionado(selected.map((s) => s.value));
+                    }
+                  }}
 
                   styles={customStyles}
                   className="w-full"
@@ -153,32 +165,47 @@ function App() {
                 className="h-64 w-[500px] object-contain rounded-lg shadow-md"
               />
             ) : (
-              <div className="h-fit w-full flex flex-wrap justify-center items-center gap-4 rounded-lg shadow-md bg-white p-2">
-  {agenteSelecionado.map((agente) => (
-    <img
-      key={agente}
-      src={getAgenteFaceImagePath(agente)}
-      alt={agente}
-      className="h-20 w-20 object-contain rounded-full border border-gray-300"
-      title={agente}
-    />
-  ))}
-</div>
+              <div className="h-fit w-[308px] flex flex-wrap justify-center items-center gap-4 rounded-lg shadow-md bg-white p-2">
+                {agenteSelecionado.map((agente) => (
+                  <img
+                    key={agente}
+                    src={getAgenteFaceImagePath(agente)}
+                    alt={agente}
+                    className="h-20 w-20 object-contain rounded-full border border-gray-300"
+                    title={agente}
+                  />
+                ))}
+              </div>
           )}
           </div>
         </div>
 
         {/* Bloco 2 */}
         <div className="col-span-9 bg-white rounded-2xl p-6 shadow-xl h-[500px] ">
-          <RatingByAggression data={dadosFiltrados} />
+          <RatingByAggression
+            data={dadosFiltrados.sort((a, b) => {
+              const indexA = agentesUnicos.indexOf(a.Agents_stats);
+              const indexB = agentesUnicos.indexOf(b.Agents_stats);
+              return indexA - indexB;
+            })}
+            selectAgente={selectAgente}
+            onAgenteClick={handleAgenteClick}
+          />        
         </div>
 
         {/* Bloco 4 */}
         <div className="col-span-6 bg-white rounded-2xl p-6 shadow-xl h-[500px]">
           <RadarAggressionChart
             data={dados}
+            agenteFocado={selectAgente}
             anoSelecionado={anoSelecionado}
-            agentesSelecionados={agenteSelecionado}
+            agentesSelecionados={agenteSelecionado.sort((a, b) => {
+              const indexA = agentesUnicos.indexOf(a);
+              const indexB = agentesUnicos.indexOf(b);
+              return indexA - indexB;
+            }
+            )}            onAgenteClick={handleAgenteClick}
+
           />
         </div>
 
@@ -186,7 +213,16 @@ function App() {
         <div className="col-span-6 bg-white rounded-2xl p-6 shadow-xl h-[500px]">
           <HeatmapRating
             data={dados.filter((d) => d.Ano === anoSelecionado)}
-            agentesSelecionados={agenteSelecionado}
+              // selectAgente={selectAgente}
+            onAgenteClick={handleAgenteClick}
+            agenteFocado={selectAgente}
+
+            agentesSelecionados={agenteSelecionado.sort((a, b) => {
+              const indexA = agentesUnicos.indexOf(a);
+              const indexB = agentesUnicos.indexOf(b);
+              return indexA - indexB;
+            }
+            )}
           />
         </div>
       </main>

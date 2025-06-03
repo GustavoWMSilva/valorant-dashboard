@@ -8,10 +8,11 @@ type Props = {
     Rating_stats: number;
     Count: number;
   }[];
+  selectAgente: string;
+  onAgenteClick: (agente: string) => void;
 };
 
-
-const RatingByAggression = ({ data }: Props) => {
+const RatingByAggression = ({ data, selectAgente, onAgenteClick }: Props) => {
   const agentsUnicos = Array.from(new Set(data.map(d => d.Agent)));
   const faixas = Array.from(new Set(data.map(d => d["Faixa de Agressividade"])));
 
@@ -25,25 +26,43 @@ const RatingByAggression = ({ data }: Props) => {
         count: item?.Count ?? 0
       };
     });
-
     return {
       name: agent,
       x: faixas,
       y: dadosAgente.map(d => d.rating),
       text: dadosAgente.map(d => d.count),
       type: 'bar',
+      opacity: !selectAgente || selectAgente === '' || agent === selectAgente ? 1 : 0.3,
       hovertemplate:
-        'Agente: ' + agent + '<br>Faixa: %{x}<br>Rating Médio: %{y:.2f}<br>Qtd Jogadores: %{text}<extra></extra>',
+      'Agente: ' + agent + '<br>Faixa: %{x}<br>Rating Médio: %{y:.2f}<br>Qtd Jogadores: %{text}<extra></extra>',
     };
   });
 
+  interface PlotData {
+    name: string;
+    x: string[];
+    y: number[];
+    text: number[];
+    type: 'bar';
+    opacity: number;
+    hovertemplate: string;
+  }
+
+  interface PlotClickEvent {
+    points: Array<{
+      data: {
+        name: string;
+      };
+    }>;
+  }
+
   return (
     <Plot
-      data={traces}
+      data={traces as PlotData[]}
       layout={{
         barmode: 'group',
         title: {
-          text: '📊 Média de Rating por Faixa de Agressividade (por Agente)',
+          text: 'Média de Rating por Faixa de Agressividade (por Agente)',
           font: { size: 20 },
           x: 0.5,
           xanchor: 'center',
@@ -62,6 +81,13 @@ const RatingByAggression = ({ data }: Props) => {
         },
         margin: { t: 80, b: 60, l: 80, r: 30 }
       }}
+      onClick={(event: PlotClickEvent) => {
+        const agenteClicado = event.points[0]?.data?.name;
+        if (agenteClicado) {
+          onAgenteClick(agenteClicado);
+        }
+      }}
+      
       useResizeHandler
       style={{ width: '100%', height: '100%' }}
       config={{ responsive: true }}
