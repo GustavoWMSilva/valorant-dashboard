@@ -47,7 +47,7 @@ const RatingTrendChart = ({ data, agentes }: Props) => {
           x: 0.5,
           xanchor: 'center',
         },
-        xaxis: { title: 'Ano' },
+        xaxis: { title: 'Ano', tickformat: 'f' },
         yaxis: { title: 'Rating Médio' },
         margin: { t: 80, b: 50, l: 60, r: 30 },
       }}
