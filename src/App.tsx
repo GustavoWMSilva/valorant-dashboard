@@ -6,6 +6,9 @@ import RadarAggressionChart from './components/RadarChart';
 import Select from 'react-select';
 import type { CSSObjectWithLabel, MultiValueProps, StylesConfig } from 'react-select';
 
+import mapas from './data/mapas_winrate_lado.json'; 
+import MapaWinRateChart from './components/MapaWinRateChart';
+
 type ValorantData = {
   Ano: number;
   Agents_stats: string;
@@ -103,6 +106,28 @@ function App() {
   }
 };
  // Valor padrão (mantido apenas como constante, se necessário)
+
+
+  const anosDisponiveis = [...new Set(mapas.map((d) => d.Ano))].sort();
+  const mapasDisponiveis = [...new Set(mapas.map((d) => d.Map))].sort();
+
+  const [anoSelecionadoMap, setAnoSelecionadoMap] = useState(2021);
+  const [mapasSelecionados, setMapasSelecionados] = useState<string[]>(['Haven']);
+
+const entradasFiltradas = mapas.filter(
+  (d) => d.Ano === anoSelecionadoMap && mapasSelecionados.includes(d.Map)
+);
+
+const total = entradasFiltradas.length;
+
+const dadosParaGrafico =
+  total > 0
+    ? [{
+        Mapa: mapasSelecionados.join(', '), // exibe todos selecionados no rótulo
+        attacker: entradasFiltradas.reduce((acc, curr) => acc + parseFloat(curr['Attacker Side Win Percentage'].replace('%', '')), 0) / total,
+        defender: entradasFiltradas.reduce((acc, curr) => acc + parseFloat(curr['Defender Side Win Percentage'].replace('%', '')), 0) / total,
+      }]
+    : [];
 
 
   return (
@@ -207,6 +232,25 @@ function App() {
             )}            onAgenteClick={handleAgenteClick}
 
           />
+        </div>
+
+        {/* Bloco 5 */}
+        <label>Ano:</label>
+        <Select
+          options={anosDisponiveis.map((a) => ({ value: a, label: a.toString() }))}
+          value={{ value: anoSelecionadoMap, label: anoSelecionadoMap.toString() }}
+          onChange={(selected) => selected && setAnoSelecionadoMap(selected.value)}
+        />
+
+        <label>Mapas:</label>
+        <Select
+          isMulti
+          options={mapasDisponiveis.map((m) => ({ value: m, label: m }))}
+          value={mapasSelecionados.map((m) => ({ value: m, label: m }))}
+          onChange={(selected) => setMapasSelecionados(selected.map((s) => s.value))}
+        />
+        <div className="col-span-12 bg-white rounded-2xl p-6 shadow-xl h-[500px]">
+          <MapaWinRateChart data={dadosParaGrafico} />
         </div>
 
         {/* Bloco 3 */}
