@@ -5,6 +5,8 @@ import HeatmapRating from './components/HeatmapRating';
 import RadarAggressionChart from './components/RadarChart';
 import Select from 'react-select';
 import type { CSSObjectWithLabel, MultiValueProps, StylesConfig } from 'react-select';
+import ecoRounds from './data/eco_rounds.json';
+import PainelEconomiaRodadas from './components/PainelEconomiasRodadas';
 
 type ValorantData = {
   Ano: number;
@@ -44,6 +46,7 @@ function App() {
   const agentesUnicos = Array.from(new Set(dados.map((d) => d.Agents_stats))).sort();
   const [selectAgente, setSelectAgente] = useState<string>(''); // Estado para o agente selecionado
 
+  const [economiaSelecionada, setEconomiaSelecionada] = useState<string | null>(null);
 
   const [anoSelecionado, setAnoSelecionado] = useState<number>(2024);
   const [agenteSelecionado, setAgenteSelecionado] = useState<string[]>(['jett']);
@@ -225,6 +228,11 @@ function App() {
             )}
           />
         </div>
+        {/* Bloco 4 */}
+        <div className="col-span-12 bg-white rounded-2xl p-6 shadow-xl">
+          <PainelEconomiaRodadas data={ecoRounds} economiaSelecionada={economiaSelecionada} />
+        </div>
+
       </main>
 
       <footer className="w-full text-center py-4 text-sm text-gray-500">
