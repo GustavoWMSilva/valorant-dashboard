@@ -35,6 +35,12 @@ const getAgenteImagePath = (agente: string) => {
   return `/images/agentes/${nomeFormatado}_-_Full_body.png`;
 };
 const getAgenteFaceImagePath = (agente: string) => {
+  const map: Record<string, string> = {
+    'kayo': 'KAYO_icon.png',
+    'yoru': 'Yoru_icon.webp',
+  };
+  const nome = agente.toLowerCase();
+  if (map[nome]) return `/images/agentes/face/${map[nome]}`;
   const nomeFormatado = agente.charAt(0).toUpperCase() + agente.slice(1).toLowerCase();
   return `/images/agentes/face/${nomeFormatado}_icon.png`;
 };
