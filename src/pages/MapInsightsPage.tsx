@@ -4,7 +4,6 @@ import MapPickRateBar from '../components/MapPickRateBar';
 import SideWinPercentageChart from '../components/SideWinPercentageChart';
 import MapWinLossChart from '../components/MapWinLossChart';
 import Select from 'react-select';
-import path from 'path';
 
 interface Entry {
   Team: string;
