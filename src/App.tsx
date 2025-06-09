@@ -6,8 +6,10 @@ import RadarAggressionChart from './components/RadarChart';
 import Select from 'react-select';
 import type { CSSObjectWithLabel, MultiValueProps, StylesConfig } from 'react-select';
 
-import mapas from './data/mapas_winrate_lado.json'; 
+//aloy---------------
+import mapas from './data/maps_winrate.json'; 
 import MapaWinRateChart from './components/MapaWinRateChart';
+//aloy---------------
 
 type ValorantData = {
   Ano: number;
@@ -107,28 +109,19 @@ function App() {
 };
  // Valor padrão (mantido apenas como constante, se necessário)
 
-
   const anosDisponiveis = [...new Set(mapas.map((d) => d.Ano))].sort();
   const mapasDisponiveis = [...new Set(mapas.map((d) => d.Map))].sort();
 
   const [anoSelecionadoMap, setAnoSelecionadoMap] = useState(2021);
   const [mapasSelecionados, setMapasSelecionados] = useState<string[]>(['Haven']);
 
-const entradasFiltradas = mapas.filter(
-  (d) => d.Ano === anoSelecionadoMap && mapasSelecionados.includes(d.Map)
-);
-
-const total = entradasFiltradas.length;
-
-const dadosParaGrafico =
-  total > 0
-    ? [{
-        Mapa: mapasSelecionados.join(', '), // exibe todos selecionados no rótulo
-        attacker: entradasFiltradas.reduce((acc, curr) => acc + parseFloat(curr['Attacker Side Win Percentage'].replace('%', '')), 0) / total,
-        defender: entradasFiltradas.reduce((acc, curr) => acc + parseFloat(curr['Defender Side Win Percentage'].replace('%', '')), 0) / total,
-      }]
-    : [];
-
+const dadosParaGrafico = mapas
+  .filter((d) => d.Ano === anoSelecionadoMap && mapasSelecionados.includes(d.Map))
+  .map((d) => ({
+    Mapa: d.Map,
+    attacker: d['Atk Win%'],
+    defender: d['Def Win%'],
+  }));
 
   return (
     <div className="w-screen min-h-screen bg-gradient-to-br from-gray-100 to-indigo-50 flex flex-col">
@@ -234,23 +227,30 @@ const dadosParaGrafico =
           />
         </div>
 
-        {/* Bloco 5 */}
-        <label>Ano:</label>
-        <Select
-          options={anosDisponiveis.map((a) => ({ value: a, label: a.toString() }))}
-          value={{ value: anoSelecionadoMap, label: anoSelecionadoMap.toString() }}
-          onChange={(selected) => selected && setAnoSelecionadoMap(selected.value)}
-        />
-
-        <label>Mapas:</label>
-        <Select
-          isMulti
-          options={mapasDisponiveis.map((m) => ({ value: m, label: m }))}
-          value={mapasSelecionados.map((m) => ({ value: m, label: m }))}
-          onChange={(selected) => setMapasSelecionados(selected.map((s) => s.value))}
-        />
-        <div className="col-span-12 bg-white rounded-2xl p-6 shadow-xl h-[500px]">
-          <MapaWinRateChart data={dadosParaGrafico} />
+        {/* Bloco 5 Map Atack/Def Win Rate*/}
+        <div className="col-span-12 bg-white rounded-2xl p-6 shadow-xl">
+          <div className="flex flex-wrap gap-4 items-end mb-4">
+            <div className="flex flex-col w-32">
+              <label className="text-sm font-medium text-gray-700">Ano:</label>
+              <Select
+                options={anosDisponiveis.map((a) => ({ value: a, label: a.toString() }))}
+                value={{ value: anoSelecionadoMap, label: anoSelecionadoMap.toString() }}
+                onChange={(selected) => selected && setAnoSelecionadoMap(selected.value)}
+              />
+            </div>
+            <div className="flex flex-col min-w-[200px] flex-grow">
+              <label className="text-sm font-medium text-gray-700">Mapas:</label>
+              <Select
+                isMulti
+                options={mapasDisponiveis.map((m) => ({ value: m, label: m }))}
+                value={mapasSelecionados.map((m) => ({ value: m, label: m }))}
+                onChange={(selected) => setMapasSelecionados(selected.map((s) => s.value))}
+              />
+            </div>
+          </div>
+          <div className="h-[400px]">
+            <MapaWinRateChart data={dadosParaGrafico} />
+          </div>
         </div>
 
         {/* Bloco 3 */}
