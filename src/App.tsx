@@ -3,8 +3,6 @@ import DashboardPage from './pages/DashboardPage';
 import RoleInsightsPage from './pages/RoleInsightsPage';
 import AgentTrendsPage from './pages/AgentTrendsPage';
 import MapInsightsPage from './pages/MapInsightsPage';
-import PainelEconomiaRodadas from './components/PainelEconomiasRodadas';
-import ecoRounds from './data/eco_rounds.json';
 
 const App = () => {
   return (
