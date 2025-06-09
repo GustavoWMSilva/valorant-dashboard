@@ -36,7 +36,16 @@ const RatingAggressionScatter = ({ data, agentes, ano }: Props) => {
       mode: 'markers',
       type: 'scatter',
       name: agente,
-      marker: { size: 10 },
+      marker: {
+        size: entradas.map(e => Math.max(10, Math.sqrt(e.Count) * 2)),
+        sizemode: 'area',
+        sizeref: 2.0 * Math.max(...entradas.map(e => Math.sqrt(e.Count) * 2)) / 40**2,
+        sizemin: 10
+      },
+      text: entradas.map(e =>
+        `Agente: ${agente}<br>Faixa: ${e['Faixa de Agressividade']}<br>Rating: ${e.Rating_stats.toFixed(3)}<br>Jogos: ${e.Count}`
+      ),
+      hoverinfo: 'text',
     };
   });
 

@@ -13,6 +13,7 @@ const RoleDistributionChart = ({ data }: Props) => {
           y: data.map(d => d.count),
           type: 'bar',
           name: 'Jogadores',
+          marker: { line: { width: 2, color: '#fff' } },
         },
         {
           x: data.map(d => d.role),
@@ -21,6 +22,7 @@ const RoleDistributionChart = ({ data }: Props) => {
           mode: 'lines+markers',
           yaxis: 'y2',
           name: 'Rating médio',
+          marker: { size: 14 },
         },
       ]}
       layout={{
@@ -37,6 +39,17 @@ const RoleDistributionChart = ({ data }: Props) => {
           side: 'right',
         },
         margin: { t: 80, b: 50, l: 60, r: 60 },
+        bargap: 0.35,
+        legend: {
+          x: 0.5,
+          y: -0.2,
+          xanchor: 'center',
+          yanchor: 'top',
+          orientation: 'h',
+          bgcolor: 'rgba(255,255,255,0.7)',
+          bordercolor: '#ccc',
+          borderwidth: 1
+        },
       }}
       useResizeHandler
       style={{ width: '100%', height: '100%' }}
