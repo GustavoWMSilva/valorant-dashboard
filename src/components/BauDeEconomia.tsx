@@ -1,5 +1,3 @@
-import { useState } from 'react';
-
 interface BauInfo {
   nome: string;
   preenchimento: number; // de 0 a 1
