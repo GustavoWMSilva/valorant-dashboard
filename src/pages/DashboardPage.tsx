@@ -5,6 +5,8 @@ import HeatmapRating from '../components/HeatmapRating';
 import RadarAggressionChart from '../components/RadarChart';
 import Select from 'react-select';
 import type { CSSObjectWithLabel, MultiValueProps, StylesConfig } from 'react-select';
+import PainelEconomiaRodadas from '../components/PainelEconomiasRodadas';
+import ecoRounds from '../data/eco_rounds.json';
 
 type ValorantData = {
   Ano: number;
@@ -230,6 +232,10 @@ function App() {
             }
             )}
           />
+        </div>
+        {/* Painel de Economia */}
+        <div className="col-span-12 bg-white rounded-2xl p-20 shadow-xl h-[600px]">
+          <PainelEconomiaRodadas data={ecoRounds as any} />
         </div>
       </main>
 

@@ -3,6 +3,8 @@ import DashboardPage from './pages/DashboardPage';
 import RoleInsightsPage from './pages/RoleInsightsPage';
 import AgentTrendsPage from './pages/AgentTrendsPage';
 import MapInsightsPage from './pages/MapInsightsPage';
+import PainelEconomiaRodadas from './components/PainelEconomiasRodadas';
+import ecoRounds from './data/eco_rounds.json';
 
 const App = () => {
   return (
@@ -12,12 +14,14 @@ const App = () => {
         <Link to="/roles" className="font-semibold hover:underline">Funções</Link>
         <Link to="/agents" className="font-semibold hover:underline">Tendências</Link>
         <Link to="/maps" className="font-semibold hover:underline">Mapas</Link>
+        <Link to="/economia" className="font-semibold hover:underline">Economia</Link>
       </nav>
       <Routes>
         <Route path="/" element={<DashboardPage />} />
         <Route path="/roles" element={<RoleInsightsPage />} />
         <Route path="/agents" element={<AgentTrendsPage />} />
         <Route path="/maps" element={<MapInsightsPage />} />
+        <Route path="/economia" element={<PainelEconomiaRodadas data={ecoRounds as any} />} />
       </Routes>
     </BrowserRouter>
   );
