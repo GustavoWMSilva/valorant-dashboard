@@ -235,10 +235,14 @@ function App() {
           />
         </div>
         <div className="col-span-12 bg-white rounded-2xl p-20 shadow-xl h-[600px]">
-          <PainelEconomiaRodadas data={ecoRounds.map(er => ({
-            ...er,
-            Outcome: er.Outcome === 'Win' ? 'Win' : 'Loss'
-          }))} />
+            <PainelEconomiaRodadas
+                data={ecoRounds.map(er => ({
+                'Round Number': er['Round Number'],
+                RoundNumber: er["Round Number"],
+                Type: er.Type,
+                Outcome: er.Outcome === 'Win' ? 'Win' : 'Loss',
+            }))}
+          />
         </div>
       </main>
 
