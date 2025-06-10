@@ -30,11 +30,12 @@ const RatingByAggression = ({ data, selectAgente, onAgenteClick }: Props) => {
       name: agent,
       x: faixas,
       y: dadosAgente.map(d => d.rating),
-      text: dadosAgente.map(d => d.count),
+      text: dadosAgente.map(d => d.rating.toFixed(2)), // Add text property as required by PlotData
       type: 'bar',
       opacity: !selectAgente || selectAgente === '' || agent === selectAgente ? 1 : 0.3,
       hovertemplate:
-      'Agente: ' + agent + '<br>Faixa: %{x}<br>Rating Médio: %{y:.2f}<br>Qtd Jogadores: %{text}<extra></extra>',
+      'Agente: ' + agent + '<br>Faixa: %{x}<br>Rating Médio: %{y:.2f}<br>Qtd Jogadores: %{customdata}<extra></extra>',
+      customdata: dadosAgente.map(d => d.count),
     };
   });
 
@@ -42,7 +43,7 @@ const RatingByAggression = ({ data, selectAgente, onAgenteClick }: Props) => {
     name: string;
     x: string[];
     y: number[];
-    text: number[];
+    text: string[];
     type: 'bar';
     opacity: number;
     hovertemplate: string;
