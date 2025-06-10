@@ -4,7 +4,7 @@ import { useState } from 'react';
 
 interface EcoRoundData {
   RoundNumber?: number;
-  ['Round Number']?: number;
+  'Round Number'?: number;
   Type: string;
   Outcome: 'Win' | 'Loss';
 }
@@ -34,7 +34,7 @@ const PainelEconomiaRodadas = ({ data }: Props) => {
     const rodadaStats: Record<number, { wins: number; total: number }> = {};
 
     data.forEach((d) => {
-      const rawRound = d.RoundNumber ?? (d as any)['Round Number'];
+      const rawRound = d.RoundNumber ?? d['Round Number'];
       const r = Number(rawRound);
 
       if (d.Type === tipo && Number.isFinite(r) && r <= 25) {

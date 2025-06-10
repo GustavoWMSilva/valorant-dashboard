@@ -8,6 +8,7 @@ import type { CSSObjectWithLabel, MultiValueProps, StylesConfig } from 'react-se
 import PainelEconomiaRodadas from '../components/PainelEconomiasRodadas';
 import ecoRounds from '../data/eco_rounds.json';
 
+
 type ValorantData = {
   Ano: number;
   Agents_stats: string;
@@ -233,9 +234,11 @@ function App() {
             )}
           />
         </div>
-        {/* Painel de Economia */}
         <div className="col-span-12 bg-white rounded-2xl p-20 shadow-xl h-[600px]">
-          <PainelEconomiaRodadas data={ecoRounds as any} />
+          <PainelEconomiaRodadas data={ecoRounds.map(er => ({
+            ...er,
+            Outcome: er.Outcome === 'Win' ? 'Win' : 'Loss'
+          }))} />
         </div>
       </main>
 
