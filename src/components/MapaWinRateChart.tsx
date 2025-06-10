@@ -14,7 +14,16 @@ const MapaWinRateChart: FC<Props> = ({ data }) => {
     <ResponsiveContainer width="100%" height="100%">
       <BarChart data={data} barGap={8}>
         <XAxis dataKey="Mapa" />
-        <YAxis unit="%" />
+        <YAxis
+          label={{
+            value: 'Taxa de Vitória (%)',
+            angle: -90,
+            position: 'insideLeft',
+            offset: 10,
+            style: { textAnchor: 'middle' }
+          }}
+          unit="%"
+        />
         <Tooltip />
         <Legend />
         <Bar dataKey="attacker" fill="#1f77b4" name="Atacante" />
