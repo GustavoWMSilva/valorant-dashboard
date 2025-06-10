@@ -123,7 +123,7 @@ const PainelEconomiaRodadas = ({ data }: Props) => {
               range: [0, 100],
               automargin: true
             },
-            legend: { orientation: 'h', y: -0.2 },
+            legend: { orientation: 'h', y: 1.08, x: 0.5, xanchor: 'center', yanchor: 'bottom' },
             margin: { t: 40, r: 20, l: 30, b: 40 },
           }}
           config={{ responsive: true }}

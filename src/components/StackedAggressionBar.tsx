@@ -69,7 +69,7 @@ const StackedAggressionBar = ({ data, anoSelecionado }: Props) => {
         legend: {
           title: { text: 'Faixa de Agressividade' }
         },
-        bargap: 0.2,
+        bargap: 0.35,
         margin: { t: 80, b: 120, l: 60, r: 30 }
       }}
       useResizeHandler
